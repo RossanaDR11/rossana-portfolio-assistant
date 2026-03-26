@@ -257,8 +257,9 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 if not os.path.exists("vector_store/chunks.json"):
-    st.error("Ejecuta primero: `python 1_ingest.py`")
-    st.stop()
+    with st.spinner("Building knowledge base..."):
+        import subprocess
+        subprocess.run(["python3", "1_ingest.py"], check=True)
 
 load_rag()
 
