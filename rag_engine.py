@@ -2,7 +2,8 @@ import json, pickle, re
 import numpy as np
 from sklearn.metrics.pairwise import cosine_similarity
 
-STORE_DIR = "vector_store"
+import os as _os
+STORE_DIR = "vector_store" if _os.path.exists("vector_store/chunks.json") else "."
 TOP_K     = 5
 
 _vectorizer = None

@@ -256,7 +256,7 @@ st.markdown("""
 </style>
 """, unsafe_allow_html=True)
 
-if not os.path.exists("vector_store/chunks.json"):
+if not os.path.exists("vector_store/chunks.json") and not os.path.exists("chunks.json"):
     st.error("Knowledge base not found. Please upload the vector_store folder.")
     st.stop()
 
