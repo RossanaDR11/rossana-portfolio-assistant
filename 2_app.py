@@ -257,9 +257,9 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 if not os.path.exists("vector_store/chunks.json"):
-    with st.spinner("Building knowledge base..."):
-        import subprocess
-        subprocess.run(["python3", "1_ingest.py"], check=True)
+    st.error("Knowledge base not found. Please upload the vector_store folder.")
+    st.stop()
+
 
 load_rag()
 
