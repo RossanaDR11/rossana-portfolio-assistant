@@ -1,0 +1,63 @@
+ROSSANA DE ROSE — CAREER STORY AND PERSONAL BACKGROUND
+
+Career Transition: From Aviation to Data Analytics
+Rossana De Rose made a deliberate and strategic career transition from a 14-year career in aviation to becoming a Data Analyst and AI professional. This transition was not accidental — it was driven by her passion for data-driven problem-solving and technology.
+
+During her aviation career at Ryanair, Wamos Air and Comlux, Rossana developed exceptional analytical thinking, attention to detail, decision-making under pressure, and cross-cultural communication skills. She managed complex operational scenarios, applied structured problem-solving in high-stakes environments, and coordinated across international teams.
+
+She recognised that these skills are directly transferable to the world of data analytics: breaking down complex problems, communicating insights clearly to non-technical stakeholders, managing uncertainty, and maintaining precision under pressure.
+
+In July 2025, Rossana enrolled in a specialised programme in Data Analytics and Artificial Intelligence at UPGRADE HUB Academy in Madrid (July 2025 – February 2026), where she gained hands-on skills in Python, SQL, machine learning, Power BI, Azure, and AI applications including NLP and RAG systems.
+
+The Aviation Chapter — 14 Years, 100+ Routes, One Decision
+Rossana spent 14 years in aviation, starting at Ryanair in 2009 and flying more than 100 European routes on the Boeing 737-800. Over the years she grew from cabin crew to senior crew, developing leadership, operational discipline and an instinct for managing complex systems under time pressure.
+
+At Comlux Private Aviation in Barcelona (2023), she transitioned to VVIP service, working with high-net-worth clients on a Boeing 737-500. Precision, discretion and bespoke delivery were non-negotiable. At Wamos Air in Madrid (2024–2025), she operated on Airbus A320/A330 aircraft on long-haul international routes.
+
+Throughout this period, Rossana was quietly developing an analytical mindset. She was always drawn to process efficiency, patterns in data, and why things worked — or didn't. The pivot to data analytics felt inevitable.
+
+The Data Chapter — Building From Zero (Almost)
+When Rossana decided to retrain, she did not do it halfway. She enrolled in a structured, intensive programme covering the full data stack: Python, SQL, Power BI, machine learning, Azure, and AI. She built projects from day one, not toy examples — real applications with real architecture.
+
+Her first AI project was a RAG chatbot built over aviation safety documents. She used her domain knowledge to curate the knowledge base, her new Python skills to build the retrieval system, and her communication skills to make the output clear and useful. It was the perfect synthesis of old expertise and new skills.
+
+She followed this with a conversational Data Analyst Assistant, predictive modelling projects for B2B freelance clients, Power BI dashboards, ETL pipelines on Azure, and NLP applications. The portfolio grew fast because she was applying each skill immediately to real problems.
+
+Why Rossana Stands Out
+Rossana is not a typical data analyst. She brings:
+1. Domain expertise: 14 years of real-world operational experience that gives context to business problems.
+2. Multilingual communication: Fluent in Italian, English and Spanish — valuable in international and multicultural teams.
+3. Stakeholder communication: Proven ability to translate complex information into clear, actionable messages for diverse audiences — a skill refined across hundreds of international flights.
+4. Adaptability: Career pivots require resilience and rapid learning. Rossana has demonstrated this in the most challenging way possible.
+5. AI-first mindset: She is not just learning to use AI tools — she is building them.
+6. Business acumen: After years working in commercial aviation and with B2B clients, she understands that data work is only valuable when it drives business decisions.
+
+The Freelance Period — Real Clients, Real Data
+Since July 2025, Rossana has been working as a freelance Data Analyst and AI consultant. She has delivered:
+- Power BI dashboards with complex DAX measures for B2B clients needing executive-level reporting.
+- Python-based ETL pipelines extracting, transforming and loading data from APIs and databases into Azure data warehouses.
+- Machine learning models (regression, classification, clustering) for clients needing predictive analytics.
+- NLP and sentiment analysis pipelines processing customer reviews and survey data.
+- RAG chatbot applications for domain-specific Q&A.
+
+This freelance experience has sharpened her ability to scope projects quickly, communicate findings to non-technical stakeholders, and deliver real value under commercial constraints.
+
+Current Status
+Rossana is currently based in Málaga, Spain and is available for:
+- Full-time Data Analyst or BI Analyst roles (on-site or remote)
+- AI / Machine Learning Engineer roles
+- Data Engineering roles
+- Freelance data analytics and AI projects
+She is open to relocation within Spain and to fully remote opportunities across Europe.
+
+Personal Approach to Work
+Rossana believes that the best data work is not about the tools — it is about understanding the business problem. She focuses on delivering actionable insights, not just technical outputs. She has a strong bias for practical results and for communicating findings in a way that non-technical stakeholders can understand and act upon.
+
+She is curious, fast-learning, and not afraid to start from zero. She has already proven that once — she can do it again in any domain.
+
+Contact
+Email: rossanadero@hotmail.it
+Phone: +34 655 593 805
+LinkedIn: linkedin.com/in/rossana-derose
+GitHub: github.com/RossanaDr11
+Location: Málaga, Spain

@@ -1,0 +1,667 @@
+[
+  {
+    "chunk_id": 0,
+    "source": "cover_letter_es.txt",
+    "text": "ROSSANA DE ROSE — CARTA DE PRESENTACIÓN (ESPAÑOL)\nAsunto: Candidatura para puesto de Analista de Datos / Business Intelligence"
+  },
+  {
+    "chunk_id": 1,
+    "source": "cover_letter_es.txt",
+    "text": "Rossana De Rose se pone en contacto para expresar su firme interés en incorporarse a un equipo como Analista de Datos o Especialista en Business Intelligence. Con una reciente especialización en Analítica de Datos e Inteligencia Artificial — y más de 15 años de experiencia profesional internacional — aporta una combinación única de profundidad técnica, visión de negocio y las habilidades de comunicación necesarias para transformar datos complejos en decisiones estratégicas."
+  },
+  {
+    "chunk_id": 2,
+    "source": "cover_letter_es.txt",
+    "text": "Tras completar un programa intensivo en Analítica de Datos e IA en UPGRADE HUB Academy (Madrid), Rossana ha estado desarrollando soluciones analíticas end-to-end para clientes B2B como consultora freelance. Su trabajo abarca Python (Pandas, Scikit-Learn, NumPy), SQL, Power BI (DAX, Power Query, modelado de datos), Microsoft Azure y Microsoft Fabric. Diseña pipelines ETL, construye dashboards interactivos en Streamlit, desarrolla modelos de machine learning (regresión, clasificación, clustering, Random Forest) y aplica NLP y Retrieval-Augmented Generation (RAG) para extraer insights de datos no estructurados."
+  },
+  {
+    "chunk_id": 3,
+    "source": "cover_letter_es.txt",
+    "text": "Un proyecto representativo de sus capacidades: Rossana realizó un estudio completo de analítica de clientes sobre más de 2.200 reseñas de pasajeros de Ryanair, construyendo un modelo Random Forest con un 95% de precisión y ROC-AUC de 0,94 para predecir la probabilidad de recomendación, y desplegando un dashboard interactivo en Streamlit con inferencia ML en tiempo real. El análisis identificó el servicio en tierra como el principal impulsor de la fidelidad del cliente — un hallazgo directamente accionable para el negocio."
+  },
+  {
+    "chunk_id": 4,
+    "source": "cover_letter_es.txt",
+    "text": "Lo que diferencia a Rossana es una trayectoria que combina el rigor analítico con una profunda dimensión humana. Sus 16 años en el vertiginoso entorno de la aviación le aportaron un conocimiento de primera mano sobre la complejidad operativa, el rendimiento bajo presión y la colaboración intercultural a gran escala. Entiende los problemas de negocio que ahora resuelve con datos — y sabe comunicar los hallazgos con claridad tanto a perfiles técnicos como no técnicos."
+  },
+  {
+    "chunk_id": 5,
+    "source": "cover_letter_es.txt",
+    "text": "Multilingüe en italiano, inglés y español, Rossana se desenvuelve con soltura en entornos internacionales y dinámicos. Queda a disposición del responsable de selección para una entrevista cuando mejor le convenga."
+  },
+  {
+    "chunk_id": 6,
+    "source": "cover_letter_es.txt",
+    "text": "Contacto: rossanadero@hotmail.it | +34 655 593 805 | linkedin.com/in/rossana-derose | github.com/RossanaDr11"
+  },
+  {
+    "chunk_id": 7,
+    "source": "cv_en.txt",
+    "text": "CONTACT\nName: Rossana De Rose\nPhone: +34 655 593 805\nEmail: rossanadero@hotmail.it\nLinkedIn: linkedin.com/in/rossana-derose\nGitHub: github.com/RossanaDr11\nLocation: Málaga, Spain\nNationality: Italian"
+  },
+  {
+    "chunk_id": 8,
+    "source": "cv_en.txt",
+    "text": "PROFESSIONAL SUMMARY\nRossana is a results-driven Data Analyst and Business Intelligence professional with hands-on experience in data analytics, predictive modelling, data visualisation and BI reporting. She is skilled in delivering end-to-end analytics solutions — from data extraction, data cleaning and exploratory data analysis (EDA) to machine learning models, statistical analysis and interactive dashboards. Proficient in Python (Pandas, NumPy, Scikit-Learn), SQL, Power BI (DAX, Power Query, data modelling), Azure and Microsoft Fabric. Experienced in KPI definition, metrics tracking, performance reporting and data-driven decision-making across cross-functional environments. Strong communicator able to translate complex analytical findings into clear, actionable insights for both technical teams and non-technical stakeholders. Multilingual (Italian, English, Spanish)."
+  },
+  {
+    "chunk_id": 9,
+    "source": "cv_en.txt",
+    "text": "TECH STACK\nPython, SQL, Power BI, Machine Learning, Streamlit, Azure, Microsoft Fabric, Scikit-Learn, Pandas, NumPy, Matplotlib, Seaborn, Random Forest, NLP, DAX, Git, GitHub, Jupyter, Excel, RAG Systems, ETL Pipelines"
+  },
+  {
+    "chunk_id": 10,
+    "source": "cv_en.txt",
+    "text": "SOFT SKILLS\nCritical and Analytical Thinking, Data Storytelling, Business Acumen, Problem Solving, Attention to Detail, Stakeholder Management, Communication of Complex Findings, Cross-functional Collaboration, Continuous Learning, Project Management, Multicultural Awareness"
+  },
+  {
+    "chunk_id": 11,
+    "source": "cv_en.txt",
+    "text": "Data Analyst & AI Freelancer\nIndependent Consultant — Remote, Málaga, Spain\nJuly 2025 – Present"
+  },
+  {
+    "chunk_id": 12,
+    "source": "cv_en.txt",
+    "text": "Rossana delivers end-to-end data analytics projects: exploratory data analysis (EDA), statistical analysis, feature engineering and predictive modelling (regression, classification, clustering) for B2B clients."
+  },
+  {
+    "chunk_id": 13,
+    "source": "cv_en.txt",
+    "text": "She designs Business Intelligence dashboards in Power BI (DAX, Power Query, data modelling) and Streamlit for real-time KPI tracking, performance monitoring and executive reporting."
+  },
+  {
+    "chunk_id": 14,
+    "source": "cv_en.txt",
+    "text": "She builds scalable ETL pipelines using Python (Pandas, NumPy, Scikit-Learn) and SQL for data extraction, cleaning, transformation and loading from multiple structured and unstructured sources."
+  },
+  {
+    "chunk_id": 15,
+    "source": "cv_en.txt",
+    "text": "She applies Natural Language Processing (NLP), sentiment analysis and Retrieval-Augmented Generation (RAG) to unstructured text data, enabling automated insights and data-driven reporting."
+  },
+  {
+    "chunk_id": 16,
+    "source": "cv_en.txt",
+    "text": "She deploys cloud-based analytics on Microsoft Azure and Microsoft Fabric, including data warehousing, automated pipelines and collaborative BI workspaces."
+  },
+  {
+    "chunk_id": 17,
+    "source": "cv_en.txt",
+    "text": "She conducts A/B testing and statistical hypothesis validation to support data-driven decision-making and business strategy across client engagements."
+  },
+  {
+    "chunk_id": 18,
+    "source": "cv_en.txt",
+    "text": "She translates complex analytical findings into clear, actionable recommendations for non-technical stakeholders through interactive dashboards and concise data storytelling."
+  },
+  {
+    "chunk_id": 19,
+    "source": "cv_en.txt",
+    "text": "Key Project — Ryanair Customer Analytics: Rossana performed a full EDA on 2,200+ real passenger reviews, built a Random Forest classification model achieving 95% accuracy and ROC-AUC 0.94 in predicting passenger recommendation likelihood, and deployed an interactive Streamlit dashboard with real-time ML inference — identifying ground service as the primary driver of customer loyalty."
+  },
+  {
+    "chunk_id": 20,
+    "source": "cv_en.txt",
+    "text": "Tech Stack: Python, Pandas, Scikit-Learn, Streamlit, Power BI, SQL, Azure, Microsoft Fabric, NLP, RAG"
+  },
+  {
+    "chunk_id": 21,
+    "source": "cv_en.txt",
+    "text": "International Flight Attendant\nWamos Air — Madrid, Spain\nMarch 2024 – 2025\nAirbus A320/A330 — complex operational logistics and service delivery on long-haul international routes. Structured analytical problem-solving in high-pressure, dynamic environments."
+  },
+  {
+    "chunk_id": 22,
+    "source": "cv_en.txt",
+    "text": "VVIP Flight Attendant\nComlux Private Aviation — Barcelona, Spain\nMarch 2023 – October 2023\nPersonalised premium service to VVIP clients (Boeing 737-500) with highest discretion and professionalism."
+  },
+  {
+    "chunk_id": 23,
+    "source": "cv_en.txt",
+    "text": "Senior Cabin Crew\nRyanair DAC — Málaga, Spain\n2009 – 2023\n14-year career on Boeing 737-800 across 100+ European routes — extensive operational and customer experience. Customer excellence, emergency management and cross-cultural communication across diverse international markets."
+  },
+  {
+    "chunk_id": 24,
+    "source": "cv_en.txt",
+    "text": "Data Analytics & Artificial Intelligence\nUPGRADE HUB Academy — Madrid, Spain\nJuly 2025 – February 2026"
+  },
+  {
+    "chunk_id": 25,
+    "source": "cv_en.txt",
+    "text": "Master's Degree — Organizing International Events (MICE)\nOSTELEA School of Tourism & Hospitality — Barcelona, Spain\n2020 – 2022"
+  },
+  {
+    "chunk_id": 26,
+    "source": "cv_en.txt",
+    "text": "BA (Hons) Marketing & Management\nUniversity of Central Lancashire (UCLAN) — Preston, UK\n2003 – 2006"
+  },
+  {
+    "chunk_id": 27,
+    "source": "cv_en.txt",
+    "text": "Digitalización y RRSS — Estrategia Corporativa\nConfederación de Empresarios de Córdoba — 2025"
+  },
+  {
+    "chunk_id": 28,
+    "source": "cv_en.txt",
+    "text": "TECHNICAL SKILLS\nLanguages & Tools: Python, SQL, Power BI, Streamlit, Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn\nAI & ML: Machine Learning, Random Forest, NLP, Sentiment Analysis, RAG Systems, Generative AI\nCloud & BI: Azure, Microsoft Fabric, Power BI, ETL Pipelines, Data Visualisation"
+  },
+  {
+    "chunk_id": 29,
+    "source": "faqs.txt",
+    "text": "Q: What is Rossana's current availability?\nA: Rossana is currently available and actively looking for new opportunities. She is open to full-time roles, contract positions and freelance projects starting immediately."
+  },
+  {
+    "chunk_id": 30,
+    "source": "faqs.txt",
+    "text": "Q: Is Rossana open to remote work?\nA: Yes, Rossana is fully open to remote work. She is also open to hybrid or on-site roles in Málaga and across Spain. She can also consider relocation within Europe for the right opportunity."
+  },
+  {
+    "chunk_id": 31,
+    "source": "faqs.txt",
+    "text": "Q: What are Rossana's strongest technical skills?\nA: Rossana's strongest technical skills are Python (Pandas, NumPy, Scikit-Learn), SQL, Power BI (including DAX and Power Query), and AI/ML applications including RAG systems and NLP. She also has experience with Azure and Microsoft Fabric."
+  },
+  {
+    "chunk_id": 32,
+    "source": "faqs.txt",
+    "text": "Q: What is Rossana's full tech stack? What are all her technical competences? What technologies does she know? stack tecnológico competencias técnicas stack completo\nA: Rossana's full technical stack spans data, AI and business intelligence:"
+  },
+  {
+    "chunk_id": 33,
+    "source": "faqs.txt",
+    "text": "**Programming & Data:** Python (Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn), SQL (complex queries, joins, window functions, subqueries)"
+  },
+  {
+    "chunk_id": 34,
+    "source": "faqs.txt",
+    "text": "**AI & Machine Learning:** Machine Learning (regression, classification, clustering), NLP, Sentiment Analysis, RAG Systems, Generative AI, Prompt Engineering"
+  },
+  {
+    "chunk_id": 35,
+    "source": "faqs.txt",
+    "text": "**Business Intelligence:** Power BI (DAX, Power Query, data modelling), Streamlit (interactive dashboards and apps)"
+  },
+  {
+    "chunk_id": 36,
+    "source": "faqs.txt",
+    "text": "**Cloud & Data Engineering:** Microsoft Azure, Microsoft Fabric, ETL Pipelines, Data Warehousing"
+  },
+  {
+    "chunk_id": 37,
+    "source": "faqs.txt",
+    "text": "**Soft skills applied to data:** Data storytelling, stakeholder communication, translating complex findings for non-technical audiences"
+  },
+  {
+    "chunk_id": 38,
+    "source": "faqs.txt",
+    "text": "Q: Does Rossana have experience with Power BI?\nA: Yes. Rossana has hands-on experience designing Power BI dashboards with complex DAX measures, Power Query transformations and data modelling. She has delivered BI solutions for B2B clients including executive dashboards and KPI tracking systems."
+  },
+  {
+    "chunk_id": 39,
+    "source": "faqs.txt",
+    "text": "Q: What machine learning experience does Rossana have?\nA: Rossana has experience with supervised and unsupervised machine learning techniques including regression, classification (Random Forest, logistic regression), and clustering (K-means). She performs full ML pipelines including EDA, feature engineering, model training, evaluation and interpretation."
+  },
+  {
+    "chunk_id": 40,
+    "source": "faqs.txt",
+    "text": "Q: Has Rossana worked with AI and generative AI?\nA: Yes. Rossana has built AI-powered applications including RAG chatbots, sentiment analysis systems, and NLP pipelines. She works with the Claude API (Anthropic) and has experience with prompt engineering and LLM integration."
+  },
+  {
+    "chunk_id": 41,
+    "source": "faqs.txt",
+    "text": "Q: What is Rossana's experience with SQL?\nA: Rossana uses SQL for data extraction, transformation, and analysis. She is comfortable writing complex queries including joins, subqueries, window functions, and aggregations."
+  },
+  {
+    "chunk_id": 42,
+    "source": "faqs.txt",
+    "text": "Q: What cloud platforms does Rossana know?\nA: Rossana has experience with Microsoft Azure and Microsoft Fabric including data warehousing, automated ETL pipelines and collaborative BI workspaces."
+  },
+  {
+    "chunk_id": 43,
+    "source": "faqs.txt",
+    "text": "Q: What languages does Rossana speak?\nA: Rossana speaks Italian (native), English (proficient/C1) and Spanish (proficient). This makes her a strong candidate for international teams and multilingual environments."
+  },
+  {
+    "chunk_id": 44,
+    "source": "faqs.txt",
+    "text": "Q: What is Rossana's education? What is her educational background or academic training? Where did she study? What degrees does she have? Which university did she attend? formación académica estudios título universidad studi laurea università formazione\nA: Rossana's education covers both business and technology. She completed a specialised programme in Data Analytics and Artificial Intelligence at UPGRADE HUB Academy in Madrid (July 2025 – February 2026), where she trained in Python, SQL, machine learning, Power BI, Azure and AI applications. She also holds a Master's Degree in International Events Management from OSTELEA School of Tourism & Hospitality (Barcelona, 2020–2022) and a BA (Hons) in Marketing & Management from the University of Central Lancashire, UK. Her academic background combines strong business foundations with hands-on technical AI and data training."
+  },
+  {
+    "chunk_id": 45,
+    "source": "faqs.txt",
+    "text": "Q: Why did Rossana transition from aviation to data analytics?\nA: Rossana made a deliberate career transition driven by her passion for technology and data-driven problem-solving. Her 14 years in aviation developed strong analytical thinking, attention to detail and stakeholder communication skills — all directly applicable to data roles. She invested in formal training and practical projects to make this transition concrete and credible."
+  },
+  {
+    "chunk_id": 46,
+    "source": "faqs.txt",
+    "text": "Q: What soft skills does Rossana bring? What are her interpersonal skills, communication skills, human skills or transferable skills? habilidades blandas competencias transversales comunicación\nA: Rossana's soft skills were forged across 16 years in high-pressure, international environments — and are directly applicable to data and AI roles:"
+  },
+  {
+    "chunk_id": 47,
+    "source": "faqs.txt",
+    "text": "Critical & Analytical Thinking: Rossana consistently breaks down complex problems into structured, solvable parts — a reflex developed in aviation where every decision has consequences."
+  },
+  {
+    "chunk_id": 48,
+    "source": "faqs.txt",
+    "text": "Data Storytelling: She translates technical findings into clear, visual narratives that non-technical stakeholders can understand and act on. This is one of her strongest differentiators."
+  },
+  {
+    "chunk_id": 49,
+    "source": "faqs.txt",
+    "text": "Business Acumen: Having worked across commercial aviation and B2B consulting, Rossana understands that data only has value when it drives real business decisions. She always frames her work in terms of business impact."
+  },
+  {
+    "chunk_id": 50,
+    "source": "faqs.txt",
+    "text": "Stakeholder Management: She has communicated with diverse audiences throughout her career — from airline operations teams to C-suite executives — and knows how to adapt her message to the audience."
+  },
+  {
+    "chunk_id": 51,
+    "source": "faqs.txt",
+    "text": "Attention to Detail: In aviation, precision is non-negotiable. Rossana brings the same rigour to data work: clean pipelines, documented models and reliable outputs."
+  },
+  {
+    "chunk_id": 52,
+    "source": "faqs.txt",
+    "text": "Adaptability & Continuous Learning: Rossana made a full career pivot from aviation to AI — proving her ability to acquire new skills rapidly and perform under uncertainty."
+  },
+  {
+    "chunk_id": 53,
+    "source": "faqs.txt",
+    "text": "Cross-functional Collaboration & Multicultural Awareness: She has worked across multiple nationalities and cultures in both aviation and data consulting, making her a natural fit for international teams."
+  },
+  {
+    "chunk_id": 54,
+    "source": "faqs.txt",
+    "text": "Project Management: She manages end-to-end analytics projects independently — from scoping and data collection to model delivery and dashboard deployment."
+  },
+  {
+    "chunk_id": 55,
+    "source": "faqs.txt",
+    "text": "Q: Can Rossana work with non-technical stakeholders?\nA: Absolutely. Rossana has extensive experience communicating complex information clearly to diverse, non-technical audiences — a skill she developed across her aviation career and applies directly to presenting data insights to business stakeholders."
+  },
+  {
+    "chunk_id": 56,
+    "source": "faqs.txt",
+    "text": "Q: What type of role is Rossana looking for?\nA: Rossana is looking for roles as a Data Analyst, BI Analyst, Data Scientist, AI Analyst or similar. She is particularly interested in roles that combine business intelligence with AI and machine learning applications."
+  },
+  {
+    "chunk_id": 57,
+    "source": "faqs.txt",
+    "text": "Q: Tell me about yourself. Walk me through your CV. Introduce yourself. Cuéntame sobre ti. Preséntate.\nA: Rossana De Rose is a Data Analyst and AI Specialist based in Málaga, Spain. After 16 years in international aviation — including roles at Ryanair, Wamos Air and Comlux Private Aviation — she made a deliberate career pivot into data and AI, completing a specialised programme at UPGRADE HUB Academy in Madrid. Since then she has been working as a freelance consultant, delivering end-to-end analytics solutions for B2B clients: predictive models, Power BI dashboards, ETL pipelines, NLP applications and RAG systems. She is multilingual (Italian, English, Spanish), technically strong, and brings a rare mix of business acumen and operational experience to every data project."
+  },
+  {
+    "chunk_id": 58,
+    "source": "faqs.txt",
+    "text": "Q: Why did Rossana choose data and AI? Why the career change? Por qué el cambio de carrera?\nA: Rossana's transition from aviation to data and AI was deliberate, not accidental. Throughout her aviation career she was always drawn to the analytical side — operational patterns, performance metrics, process efficiency. She recognised that data and AI were reshaping every industry, and she wanted to be on the side that builds those tools, not just uses them. She invested in formal training and immediately started building real projects. The Ryanair Customer Analytics project — where she applied machine learning to an industry she knows intimately — is a perfect example of that vision in practice."
+  },
+  {
+    "chunk_id": 59,
+    "source": "faqs.txt",
+    "text": "Q: What is Rossana's biggest or most impressive project? Best project? Proyecto más destacado?\nA: Rossana's standout project is the Ryanair Customer Analytics study: she performed full EDA on 2,200+ real passenger reviews, built a Random Forest classification model achieving 95% accuracy and ROC-AUC 0.94 to predict recommendation likelihood, and deployed a real-time Streamlit dashboard with live ML inference. The business finding — that ground service is the primary driver of customer loyalty — was directly actionable. It combined her aviation domain expertise with her new data science skills in a single, complete project."
+  },
+  {
+    "chunk_id": 60,
+    "source": "faqs.txt",
+    "text": "Q: Can Rossana work in a team? Does she have teamwork experience? trabajo en equipo colaboración\nA: Absolutely. Rossana has extensive team experience across all stages of her career. In aviation she coordinated across multinational cabin crew teams under time pressure and in high-stakes environments. In her data consultancy work she collaborates with clients, technical and non-technical stakeholders, and cross-functional teams. She is comfortable in both independent and collaborative settings, and has a strong track record of delivering results in diverse, multicultural environments."
+  },
+  {
+    "chunk_id": 61,
+    "source": "faqs.txt",
+    "text": "Q: Can Rossana work under pressure? How does she handle stress or tight deadlines?\nA: Yes — this is one of Rossana's genuine strengths. Sixteen years in aviation, including long-haul and VVIP operations, trained her to make precise, structured decisions under pressure and with incomplete information. She applies that same composure to data projects: when a pipeline breaks, a model underperforms or a deadline is tight, she diagnoses the problem systematically and delivers. It is not a soft skill she claims — it is one she has proven repeatedly in demanding environments."
+  },
+  {
+    "chunk_id": 62,
+    "source": "faqs.txt",
+    "text": "Q: When can Rossana start? Availability? Cuándo puede empezar?\nA: Rossana is available immediately. She is actively looking for her next opportunity and can start a new role or engagement without delay."
+  },
+  {
+    "chunk_id": 63,
+    "source": "faqs.txt",
+    "text": "Q: What type of role is Rossana looking for? What are her career goals? Qué tipo de trabajo busca?\nA: Rossana is looking for roles as a Data Analyst, BI Analyst, Data Scientist or AI Analyst — ideally in organisations where data and AI are central to strategic decision-making. She is particularly motivated by roles that combine technical depth with real business impact: applying machine learning, KPI frameworks and BI reporting to drive measurable results. She is open to full-time employment, hybrid or remote, and freelance consulting engagements."
+  },
+  {
+    "chunk_id": 64,
+    "source": "faqs.txt",
+    "text": "Q: Does Rossana have experience with real data or real clients? Datos reales clientes reales?\nA: Yes. Rossana has worked with real data across all her freelance projects — not toy datasets or academic exercises. She has delivered Power BI dashboards, ETL pipelines, ML models and NLP applications for real B2B clients. Her Ryanair Customer Analytics project used 2,200+ genuine passenger reviews. She is comfortable scoping, cleaning and analysing messy, real-world data, and communicating the findings to business stakeholders who need to act on them."
+  },
+  {
+    "chunk_id": 65,
+    "source": "faqs.txt",
+    "text": "Q: What are Rossana's hobbies? What does she do outside work? Personal interests? Curiosities about Rossana? Does she volunteer? Animals? Sports? intereses personales aficiones hobby voluntariado animales deportes\nA: Outside of work, Rossana has a rich and active life. For sports she practices Pilates, rollerblading, beach volleyball and loves hiking in nature — she finds outdoor activities a great way to reset and recharge. She is also a passionate reader (novels are her favourite), a cinema lover, and enjoys visiting museums and art exhibitions. She loves spending time with friends and exploring culture in all its forms."
+  },
+  {
+    "chunk_id": 66,
+    "source": "faqs.txt",
+    "text": "What makes her stand out as a person: Rossana volunteers with homeless people, giving back to her community in a meaningful and consistent way. She is also a great animal lover. These values — empathy, generosity, a sense of community — are as much a part of who she is as her technical skills."
+  },
+  {
+    "chunk_id": 67,
+    "source": "faqs.txt",
+    "text": "Q: What certifications does Rossana have? certificaciones cursos formación adicional\nA: In addition to her formal degrees, Rossana holds the following certifications: Digitalización y RRSS — Estrategia Corporativa (Confederación de Empresarios de Córdoba, 2025), Marketing Online, Social Media & Mobile (Junta de Andalucía, 2021), Desarrollo Organizacional — Team Coaching (Junta de Andalucía, 2021), and English Business C1 (University of Central Lancashire, 2007)."
+  },
+  {
+    "chunk_id": 68,
+    "source": "faqs.txt",
+    "text": "Q: What makes Rossana unique? What sets her apart? What differentiates her? Por qué contratar a Rossana?\nA: Rossana brings a rare combination of technical depth and real-world business experience. She has 16 years in high-pressure international aviation (Ryanair, Wamos Air, Comlux) which gave her first-hand knowledge of operational complexity, performance under pressure and cross-cultural collaboration. She now applies those instincts to data — understanding business problems before solving them. She is multilingual (Italian, English, Spanish), builds AI tools from scratch (not just uses them), and communicates findings clearly to both technical and non-technical stakeholders. Her Ryanair Customer Analytics project — a Random Forest model with 95% accuracy on 2,200+ real reviews — is a perfect example of domain expertise meeting technical skill."
+  },
+  {
+    "chunk_id": 69,
+    "source": "faqs.txt",
+    "text": "Q: How can I contact Rossana?\nA: You can reach Rossana at rossanadero@hotmail.it or by phone at +34 655 593 805. You can also connect with her on LinkedIn at linkedin.com/in/rossana-derose or view her projects on GitHub at github.com/RossanaDr11."
+  },
+  {
+    "chunk_id": 70,
+    "source": "projects.txt",
+    "text": "PROJECT 1: RAG Aviation Safety Chatbot\nType: AI / NLP / RAG Application\nTech Stack: Python, FAISS, Sentence Transformers, Claude API (Anthropic), Streamlit\nDescription: A Retrieval-Augmented Generation (RAG) chatbot built on a curated knowledge base of aviation safety documents. The system divides documents into semantic chunks, creates vector embeddings using Sentence Transformers, stores them in a FAISS index, and retrieves the most relevant context to answer user questions. Claude (Haiku) generates accurate, context-grounded responses. The app is deployed with Streamlit and includes a source-citation panel showing which documents were used for each answer.\nKey concepts demonstrated: RAG architecture, vector embeddings, semantic search, FAISS, LLM integration, Streamlit deployment.\nWhy it is unique: Rossana combined her 14 years of aviation expertise with her new AI skills to create a domain-specific knowledge assistant. This showcases both technical competence and real-world domain knowledge."
+  },
+  {
+    "chunk_id": 71,
+    "source": "projects.txt",
+    "text": "PROJECT 2: Data Analyst Assistant Chatbot\nType: Conversational AI / Streamlit App\nTech Stack: Python, Claude API (Anthropic), Streamlit\nDescription: A multi-turn conversational chatbot specialised in data analytics topics including Python, SQL, Power BI, machine learning and statistics. Features streaming responses, conversation history management, and a sidebar with example questions. Deployed on Streamlit Cloud.\nKey concepts demonstrated: LLM API integration, multi-turn conversation management, Streamlit streaming, system prompt engineering."
+  },
+  {
+    "chunk_id": 72,
+    "source": "projects.txt",
+    "text": "PROJECT 3: Portfolio Assistant (this project)\nType: AI / RAG / Personal Branding\nTech Stack: Python, FAISS, Sentence Transformers, Claude API, Streamlit\nDescription: An intelligent portfolio assistant that allows recruiters and hiring managers to interactively explore Rossana's professional background, skills, and projects. Built on RAG architecture with a curated knowledge base of her CV, projects, and career story."
+  },
+  {
+    "chunk_id": 73,
+    "source": "projects.txt",
+    "text": "PROJECT 4: BI Dashboards and ETL Pipelines (Freelance)\nType: Business Intelligence / Data Engineering\nTech Stack: Power BI, DAX, Power Query, Python, SQL, Azure, Microsoft Fabric\nDescription: Delivered multiple end-to-end BI solutions for B2B clients including executive dashboards, KPI tracking systems and automated ETL pipelines. Designed data models in Power BI with complex DAX measures. Built Python-based ETL pipelines extracting data from APIs, databases and flat files, transforming and loading into data warehouses on Azure."
+  },
+  {
+    "chunk_id": 74,
+    "source": "projects.txt",
+    "text": "PROJECT 5: Predictive Modelling and EDA (Freelance)\nType: Machine Learning / Data Science\nTech Stack: Python, Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn\nDescription: Delivered end-to-end predictive modelling projects for B2B clients including regression, classification and clustering tasks. Performed thorough exploratory data analysis (EDA), feature engineering and model evaluation. Used Random Forest, logistic regression and K-means clustering depending on the business problem."
+  },
+  {
+    "chunk_id": 75,
+    "source": "projects.txt",
+    "text": "PROJECT 6: NLP and Sentiment Analysis\nType: Natural Language Processing\nTech Stack: Python, NLP libraries, Generative AI\nDescription: Applied Natural Language Processing techniques including sentiment analysis and text classification to unstructured business data. Enabled clients to extract insights from customer reviews, survey responses and other text sources automatically."
+  },
+  {
+    "chunk_id": 76,
+    "source": "projects.txt",
+    "text": "PROJECT 7: Ryanair Customer Analytics — Random Forest Classification\nType: Machine Learning / Customer Analytics\nTech Stack: Python, Pandas, Scikit-Learn, Random Forest, Streamlit, Matplotlib, Seaborn\nDescription: Rossana performed a full exploratory data analysis (EDA) on 2,200+ real Ryanair passenger reviews, built a Random Forest classification model achieving 95% accuracy and ROC-AUC 0.94 in predicting passenger recommendation likelihood, and deployed an interactive Streamlit dashboard with real-time ML inference. The analysis identified ground service as the primary driver of customer loyalty — a directly actionable business finding for airline management.\nKey concepts demonstrated: end-to-end ML pipeline, EDA, feature engineering, Random Forest, model evaluation (accuracy, ROC-AUC), real-time inference, Streamlit deployment, business insight translation.\nWhy it is unique: Rossana combined her 16 years of direct aviation industry experience with her new data science skills to analyse a real-world dataset from an industry she knows deeply — delivering findings that are both technically rigorous and operationally meaningful."
+  },
+  {
+    "chunk_id": 77,
+    "source": "experience_story.txt",
+    "text": "Career Transition: From Aviation to Data Analytics\nRossana De Rose made a deliberate and strategic career transition from a 14-year career in aviation to becoming a Data Analyst and AI professional. This transition was not accidental — it was driven by her passion for data-driven problem-solving and technology."
+  },
+  {
+    "chunk_id": 78,
+    "source": "experience_story.txt",
+    "text": "During her aviation career at Ryanair, Wamos Air and Comlux, Rossana developed exceptional analytical thinking, attention to detail, decision-making under pressure, and cross-cultural communication skills. She managed complex operational scenarios, applied structured problem-solving in high-stakes environments, and coordinated across international teams."
+  },
+  {
+    "chunk_id": 79,
+    "source": "experience_story.txt",
+    "text": "She recognised that these skills are directly transferable to the world of data analytics: breaking down complex problems, communicating insights clearly to non-technical stakeholders, managing uncertainty, and maintaining precision under pressure."
+  },
+  {
+    "chunk_id": 80,
+    "source": "experience_story.txt",
+    "text": "In July 2025, Rossana enrolled in a specialised programme in Data Analytics and Artificial Intelligence at UPGRADE HUB Academy in Madrid (July 2025 – February 2026), where she gained hands-on skills in Python, SQL, machine learning, Power BI, Azure, and AI applications including NLP and RAG systems."
+  },
+  {
+    "chunk_id": 81,
+    "source": "experience_story.txt",
+    "text": "The Aviation Chapter — 14 Years, 100+ Routes, One Decision\nRossana spent 14 years in aviation, starting at Ryanair in 2009 and flying more than 100 European routes on the Boeing 737-800. Over the years she grew from cabin crew to senior crew, developing leadership, operational discipline and an instinct for managing complex systems under time pressure."
+  },
+  {
+    "chunk_id": 82,
+    "source": "experience_story.txt",
+    "text": "At Comlux Private Aviation in Barcelona (2023), she transitioned to VVIP service, working with high-net-worth clients on a Boeing 737-500. Precision, discretion and bespoke delivery were non-negotiable. At Wamos Air in Madrid (2024–2025), she operated on Airbus A320/A330 aircraft on long-haul international routes."
+  },
+  {
+    "chunk_id": 83,
+    "source": "experience_story.txt",
+    "text": "Throughout this period, Rossana was quietly developing an analytical mindset. She was always drawn to process efficiency, patterns in data, and why things worked — or didn't. The pivot to data analytics felt inevitable."
+  },
+  {
+    "chunk_id": 84,
+    "source": "experience_story.txt",
+    "text": "The Data Chapter — Building From Zero (Almost)\nWhen Rossana decided to retrain, she did not do it halfway. She enrolled in a structured, intensive programme covering the full data stack: Python, SQL, Power BI, machine learning, Azure, and AI. She built projects from day one, not toy examples — real applications with real architecture."
+  },
+  {
+    "chunk_id": 85,
+    "source": "experience_story.txt",
+    "text": "Her first AI project was a RAG chatbot built over aviation safety documents. She used her domain knowledge to curate the knowledge base, her new Python skills to build the retrieval system, and her communication skills to make the output clear and useful. It was the perfect synthesis of old expertise and new skills."
+  },
+  {
+    "chunk_id": 86,
+    "source": "experience_story.txt",
+    "text": "She followed this with a conversational Data Analyst Assistant, predictive modelling projects for B2B freelance clients, Power BI dashboards, ETL pipelines on Azure, and NLP applications. The portfolio grew fast because she was applying each skill immediately to real problems."
+  },
+  {
+    "chunk_id": 87,
+    "source": "experience_story.txt",
+    "text": "Why Rossana Stands Out\nRossana is not a typical data analyst. She brings:\n1. Domain expertise: 14 years of real-world operational experience that gives context to business problems.\n2. Multilingual communication: Fluent in Italian, English and Spanish — valuable in international and multicultural teams.\n3. Stakeholder communication: Proven ability to translate complex information into clear, actionable messages for diverse audiences — a skill refined across hundreds of international flights.\n4. Adaptability: Career pivots require resilience and rapid learning. Rossana has demonstrated this in the most challenging way possible.\n5. AI-first mindset: She is not just learning to use AI tools — she is building them.\n6. Business acumen: After years working in commercial aviation and with B2B clients, she understands that data work is only valuable when it drives business decisions."
+  },
+  {
+    "chunk_id": 88,
+    "source": "experience_story.txt",
+    "text": "The Freelance Period — Real Clients, Real Data\nSince July 2025, Rossana has been working as a freelance Data Analyst and AI consultant. She has delivered:\n- Power BI dashboards with complex DAX measures for B2B clients needing executive-level reporting.\n- Python-based ETL pipelines extracting, transforming and loading data from APIs and databases into Azure data warehouses.\n- Machine learning models (regression, classification, clustering) for clients needing predictive analytics.\n- NLP and sentiment analysis pipelines processing customer reviews and survey data.\n- RAG chatbot applications for domain-specific Q&A."
+  },
+  {
+    "chunk_id": 89,
+    "source": "experience_story.txt",
+    "text": "This freelance experience has sharpened her ability to scope projects quickly, communicate findings to non-technical stakeholders, and deliver real value under commercial constraints."
+  },
+  {
+    "chunk_id": 90,
+    "source": "experience_story.txt",
+    "text": "Current Status\nRossana is currently based in Málaga, Spain and is available for:\n- Full-time Data Analyst or BI Analyst roles (on-site or remote)\n- AI / Machine Learning Engineer roles\n- Data Engineering roles\n- Freelance data analytics and AI projects\nShe is open to relocation within Spain and to fully remote opportunities across Europe."
+  },
+  {
+    "chunk_id": 91,
+    "source": "experience_story.txt",
+    "text": "Personal Approach to Work\nRossana believes that the best data work is not about the tools — it is about understanding the business problem. She focuses on delivering actionable insights, not just technical outputs. She has a strong bias for practical results and for communicating findings in a way that non-technical stakeholders can understand and act upon."
+  },
+  {
+    "chunk_id": 92,
+    "source": "experience_story.txt",
+    "text": "She is curious, fast-learning, and not afraid to start from zero. She has already proven that once — she can do it again in any domain."
+  },
+  {
+    "chunk_id": 93,
+    "source": "experience_story.txt",
+    "text": "Contact\nEmail: rossanadero@hotmail.it\nPhone: +34 655 593 805\nLinkedIn: linkedin.com/in/rossana-derose\nGitHub: github.com/RossanaDr11\nLocation: Málaga, Spain"
+  },
+  {
+    "chunk_id": 94,
+    "source": "cv.txt",
+    "text": "PERSONAL INFORMATION\nName: Rossana De Rose\nLocation: Málaga, Spain\nPhone: +34 655 593 805\nEmail: rossanadero@hotmail.it\nLinkedIn: linkedin.com/in/rossana-derose\nGitHub: github.com/RossanaDr11\nLanguages: Italian (Native), English (Proficient), Spanish (Proficient)"
+  },
+  {
+    "chunk_id": 95,
+    "source": "cv.txt",
+    "text": "PROFESSIONAL SUMMARY\nRossana is a results-driven Data Analyst and Business Intelligence professional with hands-on experience in data analytics, predictive modelling, data visualisation and BI reporting. She is skilled in delivering end-to-end analytics solutions — from data extraction, data cleaning and exploratory data analysis (EDA) to machine learning models, statistical analysis and interactive dashboards. Proficient in Python (Pandas, NumPy, Scikit-Learn), SQL, Power BI (DAX, Power Query, data modelling), Azure and Microsoft Fabric. Experienced in KPI definition, metrics tracking, performance reporting and data-driven decision-making across cross-functional environments. Strong communicator able to translate complex analytical findings into clear, actionable insights for both technical teams and non-technical stakeholders. Multilingual in Italian, English and Spanish."
+  },
+  {
+    "chunk_id": 96,
+    "source": "cv.txt",
+    "text": "Data Analyst & AI Freelancer\nIndependent Consultant — Remote, Málaga, Spain\nJuly 2025 – Present\n- Delivered end-to-end data analytics projects: EDA, statistical analysis, feature engineering and predictive modelling (regression, classification, clustering) for B2B clients.\n- Designed Business Intelligence dashboards in Power BI (DAX, Power Query, data modelling) and Streamlit for real-time KPI tracking, performance monitoring and executive reporting.\n- Built scalable ETL pipelines using Python (Pandas, NumPy, Scikit-Learn) and SQL for data extraction, cleaning, transformation and loading from multiple structured and unstructured sources.\n- Applied Natural Language Processing (NLP), sentiment analysis and Retrieval-Augmented Generation (RAG) to unstructured text data.\n- Deployed cloud-based analytics on Microsoft Azure and Microsoft Fabric, including data warehousing, automated pipelines and collaborative BI workspaces.\n- Conducted A/B testing and statistical hypothesis validation to support data-driven decision-making.\n- Translated complex analytical findings into clear, actionable recommendations for non-technical stakeholders through interactive dashboards and data storytelling.\nTech Stack: Python, Pandas, Scikit-Learn, Streamlit, Power BI, SQL, Azure, Microsoft Fabric, NLP, RAG"
+  },
+  {
+    "chunk_id": 97,
+    "source": "cv.txt",
+    "text": "International Flight Attendant\nWamos Air — Madrid, Spain\nMarch 2024 – 2025\n- Airbus A320/A330 — complex operational logistics and service delivery on long-haul international routes.\n- Structured analytical problem-solving in high-pressure, dynamic environments."
+  },
+  {
+    "chunk_id": 98,
+    "source": "cv.txt",
+    "text": "VVIP Flight Attendant\nComlux Private Aviation — Barcelona, Spain\nMarch 2023 – October 2023\n- Personalised premium service to VVIP clients (Boeing 737-500) with highest discretion and professionalism."
+  },
+  {
+    "chunk_id": 99,
+    "source": "cv.txt",
+    "text": "Senior Cabin Crew\nRyanair DAC — Málaga, Spain\n2009 – 2023\n- 14-year career on Boeing 737-800 across 100+ European routes.\n- Customer excellence, emergency management and cross-cultural communication across diverse international markets."
+  },
+  {
+    "chunk_id": 100,
+    "source": "cv.txt",
+    "text": "Data Analytics & Artificial Intelligence\nUPGRADE HUB Academy — Madrid, Spain\nJuly 2025 – February 2026"
+  },
+  {
+    "chunk_id": 101,
+    "source": "cv.txt",
+    "text": "Master's Degree — Organizing International Events (MICE)\nOSTELEA School of Tourism & Hospitality — Barcelona, Spain\n2020 – 2022"
+  },
+  {
+    "chunk_id": 102,
+    "source": "cv.txt",
+    "text": "BA (Hons) Marketing & Management\nUniversity of Central Lancashire (UCLAN) — Preston, UK\n2007"
+  },
+  {
+    "chunk_id": 103,
+    "source": "cv.txt",
+    "text": "TECHNICAL SKILLS\nLanguages & Tools: Python, SQL, Power BI, Streamlit, Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn\nAI & ML: Machine Learning, Random Forest, NLP, Sentiment Analysis, RAG Systems, Generative AI\nCloud & BI: Azure, Microsoft Fabric, Power BI, ETL Pipelines, Data Visualisation"
+  },
+  {
+    "chunk_id": 104,
+    "source": "cv.txt",
+    "text": "SOFT SKILLS\nAnalytical Thinking, Critical Thinking, Problem Solving, Attention to Detail, Data Storytelling, Stakeholder Management, Communication of Complex Findings, Presentation Skills, Report Writing, Cross-functional Collaboration, Project Management, Adaptability, Business Acumen, Continuous Learning"
+  },
+  {
+    "chunk_id": 105,
+    "source": "cover_letter_en.txt",
+    "text": "ROSSANA DE ROSE — COVER LETTER (ENGLISH)\nRe: Application for Data Analyst / Business Intelligence Position"
+  },
+  {
+    "chunk_id": 106,
+    "source": "cover_letter_en.txt",
+    "text": "Rossana De Rose writes to express her strong interest in joining a team as a Data Analyst or Business Intelligence Specialist. With a recent specialisation in Data Analytics and Artificial Intelligence — and over 15 years of international professional experience — she brings a unique combination of technical depth, business acumen, and the communication skills needed to turn complex data into strategic decisions."
+  },
+  {
+    "chunk_id": 107,
+    "source": "cover_letter_en.txt",
+    "text": "After completing an intensive programme in Data Analytics & AI at UPGRADE HUB Academy (Madrid), Rossana has been delivering end-to-end analytics solutions for B2B clients as a freelance consultant. Her work spans Python (Pandas, Scikit-Learn, NumPy), SQL, Power BI (DAX, Power Query, data modelling), Microsoft Azure, and Microsoft Fabric. She designs ETL pipelines, builds interactive Streamlit dashboards, develops machine learning models (regression, classification, clustering, Random Forest), and applies NLP and Retrieval-Augmented Generation (RAG) to extract insight from unstructured data."
+  },
+  {
+    "chunk_id": 108,
+    "source": "cover_letter_en.txt",
+    "text": "A key project that reflects her capabilities: Rossana conducted a full customer analytics study on 2,200+ Ryanair passenger reviews, building a Random Forest model achieving 95% accuracy and ROC-AUC 0.94 in predicting recommendation likelihood, then deploying an interactive Streamlit dashboard with real-time ML inference. The analysis identified ground service as the primary driver of customer loyalty — a directly actionable business finding."
+  },
+  {
+    "chunk_id": 109,
+    "source": "cover_letter_en.txt",
+    "text": "What sets Rossana apart is a background that is both analytically rigorous and deeply human. Her 16 years in the hectic environment of aviation gave her first-hand knowledge of operational complexity, performance under pressure, and cross-cultural collaboration at scale. She understands the business problems she is now solving with data — and knows how to communicate findings clearly to technical and non-technical audiences alike."
+  },
+  {
+    "chunk_id": 110,
+    "source": "cover_letter_en.txt",
+    "text": "Multilingual in Italian, English, and Spanish, Rossana thrives in international, fast-moving environments. She is available for an interview at the earliest convenience of the hiring team."
+  },
+  {
+    "chunk_id": 111,
+    "source": "cover_letter_en.txt",
+    "text": "Contact: rossanadero@hotmail.it | +34 655 593 805 | linkedin.com/in/rossana-derose | github.com/RossanaDr11"
+  },
+  {
+    "chunk_id": 112,
+    "source": "cv_es.txt",
+    "text": "CONTACTO\nNombre: Rossana De Rose\nTeléfono: +34 655 593 805\nEmail: rossanadero@hotmail.it\nLinkedIn: linkedin.com/in/rossana-derose\nGitHub: github.com/RossanaDr11\nUbicación: Málaga, España\nNacionalidad: Italiana"
+  },
+  {
+    "chunk_id": 113,
+    "source": "cv_es.txt",
+    "text": "RESUMEN PROFESIONAL\nRossana es una profesional de datos e IA con sólidos conocimientos en analítica, machine learning e inteligencia de negocio, complementados por una trayectoria en entornos internacionales de alta exigencia donde la precisión y las decisiones basadas en datos son críticas. Diseña soluciones end-to-end — desde el análisis exploratorio y la modelización predictiva hasta dashboards interactivos y pipelines en la nube — transformando datos complejos en insights claros y accionables para cualquier sector o contexto empresarial."
+  },
+  {
+    "chunk_id": 114,
+    "source": "cv_es.txt",
+    "text": "Su objetivo es crecer dentro de una organización orientada a los datos donde la Inteligencia de Negocio y el análisis avanzado sean el núcleo de la toma de decisiones estratégicas. Dominio de Python, SQL, Power BI, Machine Learning, Sistemas RAG, Azure y Microsoft Fabric. Comunicadora multilingüe (italiano, inglés, español)."
+  },
+  {
+    "chunk_id": 115,
+    "source": "cv_es.txt",
+    "text": "STACK TECNOLÓGICO\nPython, SQL, Power BI, Machine Learning, Streamlit, Azure, MS Fabric, Scikit-Learn, Pandas, NumPy, Matplotlib, Seaborn, Random Forest, NLP, DAX, Git, GitHub, Jupyter, Excel, Sistemas RAG, Pipelines ETL"
+  },
+  {
+    "chunk_id": 116,
+    "source": "cv_es.txt",
+    "text": "HABILIDADES BLANDAS\nPensamiento Crítico y Analítico, Storytelling con Datos, Visión de Negocio, Resolución de Problemas, Atención al Detalle, Gestión de Stakeholders, Comunicación de Hallazgos Complejos, Colaboración Interfuncional, Aprendizaje Continuo, Gestión de Proyectos, Conciencia Multicultural"
+  },
+  {
+    "chunk_id": 117,
+    "source": "cv_es.txt",
+    "text": "Data Analyst & AI Freelancer — ACTUAL\nConsultora Independiente — Remoto, Málaga, España\nJulio 2025 – Presente"
+  },
+  {
+    "chunk_id": 118,
+    "source": "cv_es.txt",
+    "text": "Rossana ejecuta proyectos de análisis de datos end-to-end: análisis exploratorio (EDA), ingeniería de variables, modelización predictiva (regresión, clasificación, clustering) y despliegue de dashboards interactivos para clientes B2B."
+  },
+  {
+    "chunk_id": 119,
+    "source": "cv_es.txt",
+    "text": "Diseña informes en Power BI (DAX, modelado de datos, Power Query) y aplicaciones Streamlit para el seguimiento de KPIs en tiempo real, reporting ejecutivo y toma de decisiones operativas."
+  },
+  {
+    "chunk_id": 120,
+    "source": "cv_es.txt",
+    "text": "Construye pipelines ETL escalables con Python (Pandas, NumPy, Scikit-Learn), SQL y flujos automatizados para extracción, limpieza, transformación y carga de datos desde fuentes estructuradas y no estructuradas."
+  },
+  {
+    "chunk_id": 121,
+    "source": "cv_es.txt",
+    "text": "Aplica NLP, análisis de sentimiento y Retrieval-Augmented Generation (RAG) a datos textuales no estructurados, generando insights accionables y automatizando flujos de reporting."
+  },
+  {
+    "chunk_id": 122,
+    "source": "cv_es.txt",
+    "text": "Despliega soluciones analíticas en la nube con Microsoft Azure y Microsoft Fabric, incluyendo data warehousing, pipelines automatizados y espacios de trabajo colaborativos de BI."
+  },
+  {
+    "chunk_id": 123,
+    "source": "cv_es.txt",
+    "text": "Realiza análisis estadístico y pruebas A/B para validar hipótesis de negocio y apoyar la toma de decisiones basada en datos en los proyectos de sus clientes."
+  },
+  {
+    "chunk_id": 124,
+    "source": "cv_es.txt",
+    "text": "Traduce hallazgos analíticos complejos en recomendaciones claras y accionables para perfiles no técnicos mediante dashboards interactivos y storytelling con datos."
+  },
+  {
+    "chunk_id": 125,
+    "source": "cv_es.txt",
+    "text": "Proyecto destacado — Ryanair Customer Analytics: Rossana realizó un EDA completo sobre más de 2.200 reseñas reales de pasajeros, construyó un modelo Random Forest con un 95% de precisión y ROC-AUC 0,94 para predecir la probabilidad de recomendación, y desplegó un dashboard interactivo en Streamlit con inferencia ML en tiempo real — identificando el servicio en tierra como el principal impulsor de la fidelidad del cliente."
+  },
+  {
+    "chunk_id": 126,
+    "source": "cv_es.txt",
+    "text": "Auxiliar de Vuelo Internacional\nWamos Air — Madrid, España\n2024 – 2025\nAirbus A320/A330 — logística operativa compleja y prestación de servicios en rutas internacionales de largo recorrido. Resolución analítica y estructurada de problemas en entornos dinámicos y de alta presión."
+  },
+  {
+    "chunk_id": 127,
+    "source": "cv_es.txt",
+    "text": "Auxiliar de Vuelo VVIP\nComlux Private Aviation — Barcelona, España\n2023 – 2024\nServicio premium personalizado a clientes VVIP (Boeing 737-500) con la máxima discreción y profesionalidad."
+  },
+  {
+    "chunk_id": 128,
+    "source": "cv_es.txt",
+    "text": "Tripulante de Cabina Senior\nRyanair DAC — Málaga, España\n2009 – 2023\n14 años en Boeing 737-800 en más de 100 rutas europeas — conocimiento operativo profundo que sustenta el actual trabajo de análisis de datos en el sector aéreo. Excelencia en atención al cliente, gestión de emergencias y comunicación intercultural en mercados internacionales diversos."
+  },
+  {
+    "chunk_id": 129,
+    "source": "cv_es.txt",
+    "text": "Analítica de Datos e Inteligencia Artificial\nUPGRADE HUB Academy — Madrid, España\nJulio 2025 – Febrero 2026"
+  },
+  {
+    "chunk_id": 130,
+    "source": "cv_es.txt",
+    "text": "Máster — Organización de Eventos Internacionales (MICE)\nOSTELEA School of Tourism & Hospitality — Barcelona, España\n2020 – 2022"
+  },
+  {
+    "chunk_id": 131,
+    "source": "cv_es.txt",
+    "text": "Licenciatura en Marketing y Gestión Empresarial\nUniversity of Central Lancashire (UCLAN) — Preston, UK\n2003 – 2006"
+  },
+  {
+    "chunk_id": 132,
+    "source": "cv_es.txt",
+    "text": "Digitalización y RRSS — Estrategia Corporativa\nConfederación de Empresarios de Córdoba — 2025"
+  }
+]

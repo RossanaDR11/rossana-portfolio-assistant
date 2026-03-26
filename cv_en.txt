@@ -1,0 +1,96 @@
+ROSSANA DE ROSE — CURRICULUM VITAE (ENGLISH)
+
+CONTACT
+Name: Rossana De Rose
+Phone: +34 655 593 805
+Email: rossanadero@hotmail.it
+LinkedIn: linkedin.com/in/rossana-derose
+GitHub: github.com/RossanaDr11
+Location: Málaga, Spain
+Nationality: Italian
+
+PROFESSIONAL SUMMARY
+Rossana is a results-driven Data Analyst and Business Intelligence professional with hands-on experience in data analytics, predictive modelling, data visualisation and BI reporting. She is skilled in delivering end-to-end analytics solutions — from data extraction, data cleaning and exploratory data analysis (EDA) to machine learning models, statistical analysis and interactive dashboards. Proficient in Python (Pandas, NumPy, Scikit-Learn), SQL, Power BI (DAX, Power Query, data modelling), Azure and Microsoft Fabric. Experienced in KPI definition, metrics tracking, performance reporting and data-driven decision-making across cross-functional environments. Strong communicator able to translate complex analytical findings into clear, actionable insights for both technical teams and non-technical stakeholders. Multilingual (Italian, English, Spanish).
+
+TECH STACK
+Python, SQL, Power BI, Machine Learning, Streamlit, Azure, Microsoft Fabric, Scikit-Learn, Pandas, NumPy, Matplotlib, Seaborn, Random Forest, NLP, DAX, Git, GitHub, Jupyter, Excel, RAG Systems, ETL Pipelines
+
+SOFT SKILLS
+Critical and Analytical Thinking, Data Storytelling, Business Acumen, Problem Solving, Attention to Detail, Stakeholder Management, Communication of Complex Findings, Cross-functional Collaboration, Continuous Learning, Project Management, Multicultural Awareness
+
+PROFESSIONAL EXPERIENCE
+
+Data Analyst & AI Freelancer
+Independent Consultant — Remote, Málaga, Spain
+July 2025 – Present
+
+Rossana delivers end-to-end data analytics projects: exploratory data analysis (EDA), statistical analysis, feature engineering and predictive modelling (regression, classification, clustering) for B2B clients.
+
+She designs Business Intelligence dashboards in Power BI (DAX, Power Query, data modelling) and Streamlit for real-time KPI tracking, performance monitoring and executive reporting.
+
+She builds scalable ETL pipelines using Python (Pandas, NumPy, Scikit-Learn) and SQL for data extraction, cleaning, transformation and loading from multiple structured and unstructured sources.
+
+She applies Natural Language Processing (NLP), sentiment analysis and Retrieval-Augmented Generation (RAG) to unstructured text data, enabling automated insights and data-driven reporting.
+
+She deploys cloud-based analytics on Microsoft Azure and Microsoft Fabric, including data warehousing, automated pipelines and collaborative BI workspaces.
+
+She conducts A/B testing and statistical hypothesis validation to support data-driven decision-making and business strategy across client engagements.
+
+She translates complex analytical findings into clear, actionable recommendations for non-technical stakeholders through interactive dashboards and concise data storytelling.
+
+Key Project — Ryanair Customer Analytics: Rossana performed a full EDA on 2,200+ real passenger reviews, built a Random Forest classification model achieving 95% accuracy and ROC-AUC 0.94 in predicting passenger recommendation likelihood, and deployed an interactive Streamlit dashboard with real-time ML inference — identifying ground service as the primary driver of customer loyalty.
+
+Tech Stack: Python, Pandas, Scikit-Learn, Streamlit, Power BI, SQL, Azure, Microsoft Fabric, NLP, RAG
+
+International Flight Attendant
+Wamos Air — Madrid, Spain
+March 2024 – 2025
+Airbus A320/A330 — complex operational logistics and service delivery on long-haul international routes. Structured analytical problem-solving in high-pressure, dynamic environments.
+
+VVIP Flight Attendant
+Comlux Private Aviation — Barcelona, Spain
+March 2023 – October 2023
+Personalised premium service to VVIP clients (Boeing 737-500) with highest discretion and professionalism.
+
+Senior Cabin Crew
+Ryanair DAC — Málaga, Spain
+2009 – 2023
+14-year career on Boeing 737-800 across 100+ European routes — extensive operational and customer experience. Customer excellence, emergency management and cross-cultural communication across diverse international markets.
+
+EDUCATION
+
+Data Analytics & Artificial Intelligence
+UPGRADE HUB Academy — Madrid, Spain
+July 2025 – February 2026
+
+Master's Degree — Organizing International Events (MICE)
+OSTELEA School of Tourism & Hospitality — Barcelona, Spain
+2020 – 2022
+
+BA (Hons) Marketing & Management
+University of Central Lancashire (UCLAN) — Preston, UK
+2003 – 2006
+
+CERTIFICATIONS
+
+Digitalización y RRSS — Estrategia Corporativa
+Confederación de Empresarios de Córdoba — 2025
+
+Marketing Online, Social Media & Mobile
+Junta de Andalucía — 2021
+
+Desarrollo Organizacional — Team Coaching
+Junta de Andalucía — 2021
+
+English Business C1
+University of Central Lancashire — 2007
+
+TECHNICAL SKILLS
+Languages & Tools: Python, SQL, Power BI, Streamlit, Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
+AI & ML: Machine Learning, Random Forest, NLP, Sentiment Analysis, RAG Systems, Generative AI
+Cloud & BI: Azure, Microsoft Fabric, Power BI, ETL Pipelines, Data Visualisation
+
+LANGUAGES
+Italian — Native
+English — Proficient (C1)
+Spanish — Proficient

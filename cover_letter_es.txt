@@ -1,0 +1,14 @@
+ROSSANA DE ROSE — CARTA DE PRESENTACIÓN (ESPAÑOL)
+Asunto: Candidatura para puesto de Analista de Datos / Business Intelligence
+
+Rossana De Rose se pone en contacto para expresar su firme interés en incorporarse a un equipo como Analista de Datos o Especialista en Business Intelligence. Con una reciente especialización en Analítica de Datos e Inteligencia Artificial — y más de 15 años de experiencia profesional internacional — aporta una combinación única de profundidad técnica, visión de negocio y las habilidades de comunicación necesarias para transformar datos complejos en decisiones estratégicas.
+
+Tras completar un programa intensivo en Analítica de Datos e IA en UPGRADE HUB Academy (Madrid), Rossana ha estado desarrollando soluciones analíticas end-to-end para clientes B2B como consultora freelance. Su trabajo abarca Python (Pandas, Scikit-Learn, NumPy), SQL, Power BI (DAX, Power Query, modelado de datos), Microsoft Azure y Microsoft Fabric. Diseña pipelines ETL, construye dashboards interactivos en Streamlit, desarrolla modelos de machine learning (regresión, clasificación, clustering, Random Forest) y aplica NLP y Retrieval-Augmented Generation (RAG) para extraer insights de datos no estructurados.
+
+Un proyecto representativo de sus capacidades: Rossana realizó un estudio completo de analítica de clientes sobre más de 2.200 reseñas de pasajeros de Ryanair, construyendo un modelo Random Forest con un 95% de precisión y ROC-AUC de 0,94 para predecir la probabilidad de recomendación, y desplegando un dashboard interactivo en Streamlit con inferencia ML en tiempo real. El análisis identificó el servicio en tierra como el principal impulsor de la fidelidad del cliente — un hallazgo directamente accionable para el negocio.
+
+Lo que diferencia a Rossana es una trayectoria que combina el rigor analítico con una profunda dimensión humana. Sus 16 años en el vertiginoso entorno de la aviación le aportaron un conocimiento de primera mano sobre la complejidad operativa, el rendimiento bajo presión y la colaboración intercultural a gran escala. Entiende los problemas de negocio que ahora resuelve con datos — y sabe comunicar los hallazgos con claridad tanto a perfiles técnicos como no técnicos.
+
+Multilingüe en italiano, inglés y español, Rossana se desenvuelve con soltura en entornos internacionales y dinámicos. Queda a disposición del responsable de selección para una entrevista cuando mejor le convenga.
+
+Contacto: rossanadero@hotmail.it | +34 655 593 805 | linkedin.com/in/rossana-derose | github.com/RossanaDr11

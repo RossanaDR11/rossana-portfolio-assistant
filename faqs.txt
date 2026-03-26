@@ -1,0 +1,110 @@
+ROSSANA DE ROSE — FREQUENTLY ASKED QUESTIONS
+
+Q: What is Rossana's current availability?
+A: Rossana is currently available and actively looking for new opportunities. She is open to full-time roles, contract positions and freelance projects starting immediately.
+
+Q: Is Rossana open to remote work?
+A: Yes, Rossana is fully open to remote work. She is also open to hybrid or on-site roles in Málaga and across Spain. She can also consider relocation within Europe for the right opportunity.
+
+Q: What are Rossana's strongest technical skills?
+A: Rossana's strongest technical skills are Python (Pandas, NumPy, Scikit-Learn), SQL, Power BI (including DAX and Power Query), and AI/ML applications including RAG systems and NLP. She also has experience with Azure and Microsoft Fabric.
+
+Q: What is Rossana's full tech stack? What are all her technical competences? What technologies does she know? stack tecnológico competencias técnicas stack completo
+A: Rossana's full technical stack spans data, AI and business intelligence:
+
+**Programming & Data:** Python (Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn), SQL (complex queries, joins, window functions, subqueries)
+
+**AI & Machine Learning:** Machine Learning (regression, classification, clustering), NLP, Sentiment Analysis, RAG Systems, Generative AI, Prompt Engineering
+
+**Business Intelligence:** Power BI (DAX, Power Query, data modelling), Streamlit (interactive dashboards and apps)
+
+**Cloud & Data Engineering:** Microsoft Azure, Microsoft Fabric, ETL Pipelines, Data Warehousing
+
+**Soft skills applied to data:** Data storytelling, stakeholder communication, translating complex findings for non-technical audiences
+
+Q: Does Rossana have experience with Power BI?
+A: Yes. Rossana has hands-on experience designing Power BI dashboards with complex DAX measures, Power Query transformations and data modelling. She has delivered BI solutions for B2B clients including executive dashboards and KPI tracking systems.
+
+Q: What machine learning experience does Rossana have?
+A: Rossana has experience with supervised and unsupervised machine learning techniques including regression, classification (Random Forest, logistic regression), and clustering (K-means). She performs full ML pipelines including EDA, feature engineering, model training, evaluation and interpretation.
+
+Q: Has Rossana worked with AI and generative AI?
+A: Yes. Rossana has built AI-powered applications including RAG chatbots, sentiment analysis systems, and NLP pipelines. She works with the Claude API (Anthropic) and has experience with prompt engineering and LLM integration.
+
+Q: What is Rossana's experience with SQL?
+A: Rossana uses SQL for data extraction, transformation, and analysis. She is comfortable writing complex queries including joins, subqueries, window functions, and aggregations.
+
+Q: What cloud platforms does Rossana know?
+A: Rossana has experience with Microsoft Azure and Microsoft Fabric including data warehousing, automated ETL pipelines and collaborative BI workspaces.
+
+Q: What languages does Rossana speak?
+A: Rossana speaks Italian (native), English (proficient/C1) and Spanish (proficient). This makes her a strong candidate for international teams and multilingual environments.
+
+Q: What is Rossana's education? What is her educational background or academic training? Where did she study? What degrees does she have? Which university did she attend? formación académica estudios título universidad studi laurea università formazione
+A: Rossana's education covers both business and technology. She completed a specialised programme in Data Analytics and Artificial Intelligence at UPGRADE HUB Academy in Madrid (July 2025 – February 2026), where she trained in Python, SQL, machine learning, Power BI, Azure and AI applications. She also holds a Master's Degree in International Events Management from OSTELEA School of Tourism & Hospitality (Barcelona, 2020–2022) and a BA (Hons) in Marketing & Management from the University of Central Lancashire, UK. Her academic background combines strong business foundations with hands-on technical AI and data training.
+
+Q: Why did Rossana transition from aviation to data analytics?
+A: Rossana made a deliberate career transition driven by her passion for technology and data-driven problem-solving. Her 14 years in aviation developed strong analytical thinking, attention to detail and stakeholder communication skills — all directly applicable to data roles. She invested in formal training and practical projects to make this transition concrete and credible.
+
+Q: What soft skills does Rossana bring? What are her interpersonal skills, communication skills, human skills or transferable skills? habilidades blandas competencias transversales comunicación
+A: Rossana's soft skills were forged across 16 years in high-pressure, international environments — and are directly applicable to data and AI roles:
+
+Critical & Analytical Thinking: Rossana consistently breaks down complex problems into structured, solvable parts — a reflex developed in aviation where every decision has consequences.
+
+Data Storytelling: She translates technical findings into clear, visual narratives that non-technical stakeholders can understand and act on. This is one of her strongest differentiators.
+
+Business Acumen: Having worked across commercial aviation and B2B consulting, Rossana understands that data only has value when it drives real business decisions. She always frames her work in terms of business impact.
+
+Stakeholder Management: She has communicated with diverse audiences throughout her career — from airline operations teams to C-suite executives — and knows how to adapt her message to the audience.
+
+Attention to Detail: In aviation, precision is non-negotiable. Rossana brings the same rigour to data work: clean pipelines, documented models and reliable outputs.
+
+Adaptability & Continuous Learning: Rossana made a full career pivot from aviation to AI — proving her ability to acquire new skills rapidly and perform under uncertainty.
+
+Cross-functional Collaboration & Multicultural Awareness: She has worked across multiple nationalities and cultures in both aviation and data consulting, making her a natural fit for international teams.
+
+Project Management: She manages end-to-end analytics projects independently — from scoping and data collection to model delivery and dashboard deployment.
+
+Q: Can Rossana work with non-technical stakeholders?
+A: Absolutely. Rossana has extensive experience communicating complex information clearly to diverse, non-technical audiences — a skill she developed across her aviation career and applies directly to presenting data insights to business stakeholders.
+
+Q: What type of role is Rossana looking for?
+A: Rossana is looking for roles as a Data Analyst, BI Analyst, Data Scientist, AI Analyst or similar. She is particularly interested in roles that combine business intelligence with AI and machine learning applications.
+
+Q: Tell me about yourself. Walk me through your CV. Introduce yourself. Cuéntame sobre ti. Preséntate.
+A: Rossana De Rose is a Data Analyst and AI Specialist based in Málaga, Spain. After 16 years in international aviation — including roles at Ryanair, Wamos Air and Comlux Private Aviation — she made a deliberate career pivot into data and AI, completing a specialised programme at UPGRADE HUB Academy in Madrid. Since then she has been working as a freelance consultant, delivering end-to-end analytics solutions for B2B clients: predictive models, Power BI dashboards, ETL pipelines, NLP applications and RAG systems. She is multilingual (Italian, English, Spanish), technically strong, and brings a rare mix of business acumen and operational experience to every data project.
+
+Q: Why did Rossana choose data and AI? Why the career change? Por qué el cambio de carrera?
+A: Rossana's transition from aviation to data and AI was deliberate, not accidental. Throughout her aviation career she was always drawn to the analytical side — operational patterns, performance metrics, process efficiency. She recognised that data and AI were reshaping every industry, and she wanted to be on the side that builds those tools, not just uses them. She invested in formal training and immediately started building real projects. The Ryanair Customer Analytics project — where she applied machine learning to an industry she knows intimately — is a perfect example of that vision in practice.
+
+Q: What is Rossana's biggest or most impressive project? Best project? Proyecto más destacado?
+A: Rossana's standout project is the Ryanair Customer Analytics study: she performed full EDA on 2,200+ real passenger reviews, built a Random Forest classification model achieving 95% accuracy and ROC-AUC 0.94 to predict recommendation likelihood, and deployed a real-time Streamlit dashboard with live ML inference. The business finding — that ground service is the primary driver of customer loyalty — was directly actionable. It combined her aviation domain expertise with her new data science skills in a single, complete project.
+
+Q: Can Rossana work in a team? Does she have teamwork experience? trabajo en equipo colaboración
+A: Absolutely. Rossana has extensive team experience across all stages of her career. In aviation she coordinated across multinational cabin crew teams under time pressure and in high-stakes environments. In her data consultancy work she collaborates with clients, technical and non-technical stakeholders, and cross-functional teams. She is comfortable in both independent and collaborative settings, and has a strong track record of delivering results in diverse, multicultural environments.
+
+Q: Can Rossana work under pressure? How does she handle stress or tight deadlines?
+A: Yes — this is one of Rossana's genuine strengths. Sixteen years in aviation, including long-haul and VVIP operations, trained her to make precise, structured decisions under pressure and with incomplete information. She applies that same composure to data projects: when a pipeline breaks, a model underperforms or a deadline is tight, she diagnoses the problem systematically and delivers. It is not a soft skill she claims — it is one she has proven repeatedly in demanding environments.
+
+Q: When can Rossana start? Availability? Cuándo puede empezar?
+A: Rossana is available immediately. She is actively looking for her next opportunity and can start a new role or engagement without delay.
+
+Q: What type of role is Rossana looking for? What are her career goals? Qué tipo de trabajo busca?
+A: Rossana is looking for roles as a Data Analyst, BI Analyst, Data Scientist or AI Analyst — ideally in organisations where data and AI are central to strategic decision-making. She is particularly motivated by roles that combine technical depth with real business impact: applying machine learning, KPI frameworks and BI reporting to drive measurable results. She is open to full-time employment, hybrid or remote, and freelance consulting engagements.
+
+Q: Does Rossana have experience with real data or real clients? Datos reales clientes reales?
+A: Yes. Rossana has worked with real data across all her freelance projects — not toy datasets or academic exercises. She has delivered Power BI dashboards, ETL pipelines, ML models and NLP applications for real B2B clients. Her Ryanair Customer Analytics project used 2,200+ genuine passenger reviews. She is comfortable scoping, cleaning and analysing messy, real-world data, and communicating the findings to business stakeholders who need to act on them.
+
+Q: What are Rossana's hobbies? What does she do outside work? Personal interests? Curiosities about Rossana? Does she volunteer? Animals? Sports? intereses personales aficiones hobby voluntariado animales deportes
+A: Outside of work, Rossana has a rich and active life. For sports she practices Pilates, rollerblading, beach volleyball and loves hiking in nature — she finds outdoor activities a great way to reset and recharge. She is also a passionate reader (novels are her favourite), a cinema lover, and enjoys visiting museums and art exhibitions. She loves spending time with friends and exploring culture in all its forms.
+
+What makes her stand out as a person: Rossana volunteers with homeless people, giving back to her community in a meaningful and consistent way. She is also a great animal lover. These values — empathy, generosity, a sense of community — are as much a part of who she is as her technical skills.
+
+Q: What certifications does Rossana have? certificaciones cursos formación adicional
+A: In addition to her formal degrees, Rossana holds the following certifications: Digitalización y RRSS — Estrategia Corporativa (Confederación de Empresarios de Córdoba, 2025), Marketing Online, Social Media & Mobile (Junta de Andalucía, 2021), Desarrollo Organizacional — Team Coaching (Junta de Andalucía, 2021), and English Business C1 (University of Central Lancashire, 2007).
+
+Q: What makes Rossana unique? What sets her apart? What differentiates her? Por qué contratar a Rossana?
+A: Rossana brings a rare combination of technical depth and real-world business experience. She has 16 years in high-pressure international aviation (Ryanair, Wamos Air, Comlux) which gave her first-hand knowledge of operational complexity, performance under pressure and cross-cultural collaboration. She now applies those instincts to data — understanding business problems before solving them. She is multilingual (Italian, English, Spanish), builds AI tools from scratch (not just uses them), and communicates findings clearly to both technical and non-technical stakeholders. Her Ryanair Customer Analytics project — a Random Forest model with 95% accuracy on 2,200+ real reviews — is a perfect example of domain expertise meeting technical skill.
+
+Q: How can I contact Rossana?
+A: You can reach Rossana at rossanadero@hotmail.it or by phone at +34 655 593 805. You can also connect with her on LinkedIn at linkedin.com/in/rossana-derose or view her projects on GitHub at github.com/RossanaDr11.

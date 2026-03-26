@@ -1,0 +1,14 @@
+ROSSANA DE ROSE — COVER LETTER (ENGLISH)
+Re: Application for Data Analyst / Business Intelligence Position
+
+Rossana De Rose writes to express her strong interest in joining a team as a Data Analyst or Business Intelligence Specialist. With a recent specialisation in Data Analytics and Artificial Intelligence — and over 15 years of international professional experience — she brings a unique combination of technical depth, business acumen, and the communication skills needed to turn complex data into strategic decisions.
+
+After completing an intensive programme in Data Analytics & AI at UPGRADE HUB Academy (Madrid), Rossana has been delivering end-to-end analytics solutions for B2B clients as a freelance consultant. Her work spans Python (Pandas, Scikit-Learn, NumPy), SQL, Power BI (DAX, Power Query, data modelling), Microsoft Azure, and Microsoft Fabric. She designs ETL pipelines, builds interactive Streamlit dashboards, develops machine learning models (regression, classification, clustering, Random Forest), and applies NLP and Retrieval-Augmented Generation (RAG) to extract insight from unstructured data.
+
+A key project that reflects her capabilities: Rossana conducted a full customer analytics study on 2,200+ Ryanair passenger reviews, building a Random Forest model achieving 95% accuracy and ROC-AUC 0.94 in predicting recommendation likelihood, then deploying an interactive Streamlit dashboard with real-time ML inference. The analysis identified ground service as the primary driver of customer loyalty — a directly actionable business finding.
+
+What sets Rossana apart is a background that is both analytically rigorous and deeply human. Her 16 years in the hectic environment of aviation gave her first-hand knowledge of operational complexity, performance under pressure, and cross-cultural collaboration at scale. She understands the business problems she is now solving with data — and knows how to communicate findings clearly to technical and non-technical audiences alike.
+
+Multilingual in Italian, English, and Spanish, Rossana thrives in international, fast-moving environments. She is available for an interview at the earliest convenience of the hiring team.
+
+Contact: rossanadero@hotmail.it | +34 655 593 805 | linkedin.com/in/rossana-derose | github.com/RossanaDr11

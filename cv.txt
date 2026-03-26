@@ -1,0 +1,66 @@
+ROSSANA DE ROSE — CURRICULUM VITAE
+
+PERSONAL INFORMATION
+Name: Rossana De Rose
+Location: Málaga, Spain
+Phone: +34 655 593 805
+Email: rossanadero@hotmail.it
+LinkedIn: linkedin.com/in/rossana-derose
+GitHub: github.com/RossanaDr11
+Languages: Italian (Native), English (Proficient), Spanish (Proficient)
+
+PROFESSIONAL SUMMARY
+Rossana is a results-driven Data Analyst and Business Intelligence professional with hands-on experience in data analytics, predictive modelling, data visualisation and BI reporting. She is skilled in delivering end-to-end analytics solutions — from data extraction, data cleaning and exploratory data analysis (EDA) to machine learning models, statistical analysis and interactive dashboards. Proficient in Python (Pandas, NumPy, Scikit-Learn), SQL, Power BI (DAX, Power Query, data modelling), Azure and Microsoft Fabric. Experienced in KPI definition, metrics tracking, performance reporting and data-driven decision-making across cross-functional environments. Strong communicator able to translate complex analytical findings into clear, actionable insights for both technical teams and non-technical stakeholders. Multilingual in Italian, English and Spanish.
+
+WORK EXPERIENCE
+
+Data Analyst & AI Freelancer
+Independent Consultant — Remote, Málaga, Spain
+July 2025 – Present
+- Delivered end-to-end data analytics projects: EDA, statistical analysis, feature engineering and predictive modelling (regression, classification, clustering) for B2B clients.
+- Designed Business Intelligence dashboards in Power BI (DAX, Power Query, data modelling) and Streamlit for real-time KPI tracking, performance monitoring and executive reporting.
+- Built scalable ETL pipelines using Python (Pandas, NumPy, Scikit-Learn) and SQL for data extraction, cleaning, transformation and loading from multiple structured and unstructured sources.
+- Applied Natural Language Processing (NLP), sentiment analysis and Retrieval-Augmented Generation (RAG) to unstructured text data.
+- Deployed cloud-based analytics on Microsoft Azure and Microsoft Fabric, including data warehousing, automated pipelines and collaborative BI workspaces.
+- Conducted A/B testing and statistical hypothesis validation to support data-driven decision-making.
+- Translated complex analytical findings into clear, actionable recommendations for non-technical stakeholders through interactive dashboards and data storytelling.
+Tech Stack: Python, Pandas, Scikit-Learn, Streamlit, Power BI, SQL, Azure, Microsoft Fabric, NLP, RAG
+
+International Flight Attendant
+Wamos Air — Madrid, Spain
+March 2024 – 2025
+- Airbus A320/A330 — complex operational logistics and service delivery on long-haul international routes.
+- Structured analytical problem-solving in high-pressure, dynamic environments.
+
+VVIP Flight Attendant
+Comlux Private Aviation — Barcelona, Spain
+March 2023 – October 2023
+- Personalised premium service to VVIP clients (Boeing 737-500) with highest discretion and professionalism.
+
+Senior Cabin Crew
+Ryanair DAC — Málaga, Spain
+2009 – 2023
+- 14-year career on Boeing 737-800 across 100+ European routes.
+- Customer excellence, emergency management and cross-cultural communication across diverse international markets.
+
+EDUCATION
+
+Data Analytics & Artificial Intelligence
+UPGRADE HUB Academy — Madrid, Spain
+July 2025 – February 2026
+
+Master's Degree — Organizing International Events (MICE)
+OSTELEA School of Tourism & Hospitality — Barcelona, Spain
+2020 – 2022
+
+BA (Hons) Marketing & Management
+University of Central Lancashire (UCLAN) — Preston, UK
+2007
+
+TECHNICAL SKILLS
+Languages & Tools: Python, SQL, Power BI, Streamlit, Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
+AI & ML: Machine Learning, Random Forest, NLP, Sentiment Analysis, RAG Systems, Generative AI
+Cloud & BI: Azure, Microsoft Fabric, Power BI, ETL Pipelines, Data Visualisation
+
+SOFT SKILLS
+Analytical Thinking, Critical Thinking, Problem Solving, Attention to Detail, Data Storytelling, Stakeholder Management, Communication of Complex Findings, Presentation Skills, Report Writing, Cross-functional Collaboration, Project Management, Adaptability, Business Acumen, Continuous Learning

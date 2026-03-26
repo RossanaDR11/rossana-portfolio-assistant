@@ -1,0 +1,41 @@
+ROSSANA DE ROSE — PROJECTS
+
+PROJECT 1: RAG Aviation Safety Chatbot
+Type: AI / NLP / RAG Application
+Tech Stack: Python, FAISS, Sentence Transformers, Claude API (Anthropic), Streamlit
+Description: A Retrieval-Augmented Generation (RAG) chatbot built on a curated knowledge base of aviation safety documents. The system divides documents into semantic chunks, creates vector embeddings using Sentence Transformers, stores them in a FAISS index, and retrieves the most relevant context to answer user questions. Claude (Haiku) generates accurate, context-grounded responses. The app is deployed with Streamlit and includes a source-citation panel showing which documents were used for each answer.
+Key concepts demonstrated: RAG architecture, vector embeddings, semantic search, FAISS, LLM integration, Streamlit deployment.
+Why it is unique: Rossana combined her 14 years of aviation expertise with her new AI skills to create a domain-specific knowledge assistant. This showcases both technical competence and real-world domain knowledge.
+
+PROJECT 2: Data Analyst Assistant Chatbot
+Type: Conversational AI / Streamlit App
+Tech Stack: Python, Claude API (Anthropic), Streamlit
+Description: A multi-turn conversational chatbot specialised in data analytics topics including Python, SQL, Power BI, machine learning and statistics. Features streaming responses, conversation history management, and a sidebar with example questions. Deployed on Streamlit Cloud.
+Key concepts demonstrated: LLM API integration, multi-turn conversation management, Streamlit streaming, system prompt engineering.
+
+PROJECT 3: Portfolio Assistant (this project)
+Type: AI / RAG / Personal Branding
+Tech Stack: Python, FAISS, Sentence Transformers, Claude API, Streamlit
+Description: An intelligent portfolio assistant that allows recruiters and hiring managers to interactively explore Rossana's professional background, skills, and projects. Built on RAG architecture with a curated knowledge base of her CV, projects, and career story.
+
+PROJECT 4: BI Dashboards and ETL Pipelines (Freelance)
+Type: Business Intelligence / Data Engineering
+Tech Stack: Power BI, DAX, Power Query, Python, SQL, Azure, Microsoft Fabric
+Description: Delivered multiple end-to-end BI solutions for B2B clients including executive dashboards, KPI tracking systems and automated ETL pipelines. Designed data models in Power BI with complex DAX measures. Built Python-based ETL pipelines extracting data from APIs, databases and flat files, transforming and loading into data warehouses on Azure.
+
+PROJECT 5: Predictive Modelling and EDA (Freelance)
+Type: Machine Learning / Data Science
+Tech Stack: Python, Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
+Description: Delivered end-to-end predictive modelling projects for B2B clients including regression, classification and clustering tasks. Performed thorough exploratory data analysis (EDA), feature engineering and model evaluation. Used Random Forest, logistic regression and K-means clustering depending on the business problem.
+
+PROJECT 6: NLP and Sentiment Analysis
+Type: Natural Language Processing
+Tech Stack: Python, NLP libraries, Generative AI
+Description: Applied Natural Language Processing techniques including sentiment analysis and text classification to unstructured business data. Enabled clients to extract insights from customer reviews, survey responses and other text sources automatically.
+
+PROJECT 7: Ryanair Customer Analytics — Random Forest Classification
+Type: Machine Learning / Customer Analytics
+Tech Stack: Python, Pandas, Scikit-Learn, Random Forest, Streamlit, Matplotlib, Seaborn
+Description: Rossana performed a full exploratory data analysis (EDA) on 2,200+ real Ryanair passenger reviews, built a Random Forest classification model achieving 95% accuracy and ROC-AUC 0.94 in predicting passenger recommendation likelihood, and deployed an interactive Streamlit dashboard with real-time ML inference. The analysis identified ground service as the primary driver of customer loyalty — a directly actionable business finding for airline management.
+Key concepts demonstrated: end-to-end ML pipeline, EDA, feature engineering, Random Forest, model evaluation (accuracy, ROC-AUC), real-time inference, Streamlit deployment, business insight translation.
+Why it is unique: Rossana combined her 16 years of direct aviation industry experience with her new data science skills to analyse a real-world dataset from an industry she knows deeply — delivering findings that are both technically rigorous and operationally meaningful.

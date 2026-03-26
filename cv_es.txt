@@ -1,0 +1,91 @@
+ROSSANA DE ROSE — CURRÍCULUM VITAE (ESPAÑOL)
+
+CONTACTO
+Nombre: Rossana De Rose
+Teléfono: +34 655 593 805
+Email: rossanadero@hotmail.it
+LinkedIn: linkedin.com/in/rossana-derose
+GitHub: github.com/RossanaDr11
+Ubicación: Málaga, España
+Nacionalidad: Italiana
+
+RESUMEN PROFESIONAL
+Rossana es una profesional de datos e IA con sólidos conocimientos en analítica, machine learning e inteligencia de negocio, complementados por una trayectoria en entornos internacionales de alta exigencia donde la precisión y las decisiones basadas en datos son críticas. Diseña soluciones end-to-end — desde el análisis exploratorio y la modelización predictiva hasta dashboards interactivos y pipelines en la nube — transformando datos complejos en insights claros y accionables para cualquier sector o contexto empresarial.
+
+Su objetivo es crecer dentro de una organización orientada a los datos donde la Inteligencia de Negocio y el análisis avanzado sean el núcleo de la toma de decisiones estratégicas. Dominio de Python, SQL, Power BI, Machine Learning, Sistemas RAG, Azure y Microsoft Fabric. Comunicadora multilingüe (italiano, inglés, español).
+
+STACK TECNOLÓGICO
+Python, SQL, Power BI, Machine Learning, Streamlit, Azure, MS Fabric, Scikit-Learn, Pandas, NumPy, Matplotlib, Seaborn, Random Forest, NLP, DAX, Git, GitHub, Jupyter, Excel, Sistemas RAG, Pipelines ETL
+
+HABILIDADES BLANDAS
+Pensamiento Crítico y Analítico, Storytelling con Datos, Visión de Negocio, Resolución de Problemas, Atención al Detalle, Gestión de Stakeholders, Comunicación de Hallazgos Complejos, Colaboración Interfuncional, Aprendizaje Continuo, Gestión de Proyectos, Conciencia Multicultural
+
+EXPERIENCIA PROFESIONAL
+
+Data Analyst & AI Freelancer — ACTUAL
+Consultora Independiente — Remoto, Málaga, España
+Julio 2025 – Presente
+
+Rossana ejecuta proyectos de análisis de datos end-to-end: análisis exploratorio (EDA), ingeniería de variables, modelización predictiva (regresión, clasificación, clustering) y despliegue de dashboards interactivos para clientes B2B.
+
+Diseña informes en Power BI (DAX, modelado de datos, Power Query) y aplicaciones Streamlit para el seguimiento de KPIs en tiempo real, reporting ejecutivo y toma de decisiones operativas.
+
+Construye pipelines ETL escalables con Python (Pandas, NumPy, Scikit-Learn), SQL y flujos automatizados para extracción, limpieza, transformación y carga de datos desde fuentes estructuradas y no estructuradas.
+
+Aplica NLP, análisis de sentimiento y Retrieval-Augmented Generation (RAG) a datos textuales no estructurados, generando insights accionables y automatizando flujos de reporting.
+
+Despliega soluciones analíticas en la nube con Microsoft Azure y Microsoft Fabric, incluyendo data warehousing, pipelines automatizados y espacios de trabajo colaborativos de BI.
+
+Realiza análisis estadístico y pruebas A/B para validar hipótesis de negocio y apoyar la toma de decisiones basada en datos en los proyectos de sus clientes.
+
+Traduce hallazgos analíticos complejos en recomendaciones claras y accionables para perfiles no técnicos mediante dashboards interactivos y storytelling con datos.
+
+Proyecto destacado — Ryanair Customer Analytics: Rossana realizó un EDA completo sobre más de 2.200 reseñas reales de pasajeros, construyó un modelo Random Forest con un 95% de precisión y ROC-AUC 0,94 para predecir la probabilidad de recomendación, y desplegó un dashboard interactivo en Streamlit con inferencia ML en tiempo real — identificando el servicio en tierra como el principal impulsor de la fidelidad del cliente.
+
+Auxiliar de Vuelo Internacional
+Wamos Air — Madrid, España
+2024 – 2025
+Airbus A320/A330 — logística operativa compleja y prestación de servicios en rutas internacionales de largo recorrido. Resolución analítica y estructurada de problemas en entornos dinámicos y de alta presión.
+
+Auxiliar de Vuelo VVIP
+Comlux Private Aviation — Barcelona, España
+2023 – 2024
+Servicio premium personalizado a clientes VVIP (Boeing 737-500) con la máxima discreción y profesionalidad.
+
+Tripulante de Cabina Senior
+Ryanair DAC — Málaga, España
+2009 – 2023
+14 años en Boeing 737-800 en más de 100 rutas europeas — conocimiento operativo profundo que sustenta el actual trabajo de análisis de datos en el sector aéreo. Excelencia en atención al cliente, gestión de emergencias y comunicación intercultural en mercados internacionales diversos.
+
+FORMACIÓN
+
+Analítica de Datos e Inteligencia Artificial
+UPGRADE HUB Academy — Madrid, España
+Julio 2025 – Febrero 2026
+
+Máster — Organización de Eventos Internacionales (MICE)
+OSTELEA School of Tourism & Hospitality — Barcelona, España
+2020 – 2022
+
+Licenciatura en Marketing y Gestión Empresarial
+University of Central Lancashire (UCLAN) — Preston, UK
+2003 – 2006
+
+CERTIFICACIONES
+
+Digitalización y RRSS — Estrategia Corporativa
+Confederación de Empresarios de Córdoba — 2025
+
+Marketing Online, Social Media & Mobile
+Junta de Andalucía — 2021
+
+Desarrollo Organizacional — Team Coaching
+Junta de Andalucía — 2021
+
+English Business C1
+University of Central Lancashire — 2007
+
+IDIOMAS
+Italiano — Nativo
+Inglés — Avanzado (C1)
+Español — Avanzado
