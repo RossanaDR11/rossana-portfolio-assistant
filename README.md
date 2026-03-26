@@ -1,6 +1,6 @@
 # Rossana De Rose — AI Portfolio Assistant
 
-An interactive portfolio assistant that allows recruiters, hiring managers and collaborators to explore Rossana's professional background, skills, projects and career story — powered entirely by a custom-built RAG (Retrieval-Augmented Generation) system with **no external AI API**.
+I created an interactive portfolio assistant that allows recruiters, hiring managers and collaborators to explore my  professional background, skills, projects and career story — powered entirely by a custom-built RAG (Retrieval-Augmented Generation) system with **no external AI API**.
 
 ---
 
